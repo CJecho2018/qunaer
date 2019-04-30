@@ -1,0 +1,67 @@
+{
+  "ret": true,
+  "data": {
+        "detail": [{
+        "id": "01",
+        "img": "static/mock/img/detail01_001.jpg",
+        "bannerTitle": "广州长隆旅游度假区(AAAAA景区)",
+        "number": "3"
+        }, {
+        "id": "02",
+        "img": "static/mock/img/detail02_001.jpg",
+        "bannerTitle": "碧水湾温泉度假村(AAAA景区)",
+        "number": "2"
+        }, {
+        "id": "03",
+        "img": "static/mock/img/detail03_001.jpg",
+        "bannerTitle": "南沙百万葵园",
+        "number": "2"
+        }, {
+        "id": "04",
+        "img": "static/mock/img/detail04_001.jpg",
+        "bannerTitle": "广州长隆旅游度假区(AAAAA景区)",
+        "number": "2"
+        }],
+
+        "detailImg": [{
+            "id": "01",
+            "imgs": [
+                "static/mock/img/detail01_001.jpg", "static/mock/img/detail01_002.jpg",
+                "static/mock/img/detail01_003.jpg"
+            ]
+        },{
+            "id": "02",
+            "imgs": [
+                "static/mock/img/detail02_001.jpg",
+                "static/mock/img/detail02_002.jpg"
+            ]
+        },{
+            "id": "03",
+            "imgs": [
+                "static/mock/img/detail03_001.jpg",
+                "static/mock/img/detail03_002.jpg"
+            ]
+        },{
+            "id": "04",
+            "imgs": [
+            "static/mock/img/detail02_004.jpg",
+            "static/mock/img/detail02_004.jpg"
+            ]
+        }],
+        "categoryList": [{
+            "title": "学生票",
+            "children":[{
+                "title":"成人三馆联票",
+                "children":[{
+                    "title":"成人三馆联票 - 某一连锁销售"
+                }]
+            },{
+                "title":"成人五馆联票"
+            }]
+          }, {
+            "title": "儿童票"
+          }, {
+            "title": "特惠票"
+          }]
+    }
+}

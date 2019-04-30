@@ -1,0 +1,80 @@
+{
+  "ret": true,
+  "data": {
+    "swiper":[{
+        "id":"01",
+        "img":"static/mock/img/homeSwiper01.jpg"
+    },{
+        "id":"02",
+        "img":"static/mock/img/homeSwiper02.jpg"
+    },{
+        "id":"03",
+        "img":"static/mock/img/homeSwiper03.jpg"
+    },{
+        "id":"04",
+        "img":"static/mock/img/homeSwiper04.jpg"
+    }],
+    "swipeItem": [{
+        "id" : 1,
+        "imgUrl" : "static/mock/img/icon01.png",
+        "itemTitle" : "景点门票"
+    },{
+        "id" : 2,
+        "imgUrl" : "static/mock/img/icon02.png",
+        "itemTitle" : "广州必游"
+    },{
+        "id" : 3,
+        "imgUrl" : "static/mock/img/icon03.png",
+        "itemTitle" : "动植物园"
+    },{
+        "id" : 4,
+        "imgUrl" : "static/mock/img/icon04.png",
+        "itemTitle" : "自然风光"
+    },{
+        "id" : 5,
+        "imgUrl" : "static/mock/img/icon05.png",
+        "itemTitle" : "珠江夜游"
+    },{
+        "id" : 6,
+        "imgUrl" : "static/mock/img/icon06.png",
+        "itemTitle" : "泡温泉"
+    },{
+        "id" : 7,
+        "imgUrl" : "static/mock/img/icon07.png",
+        "itemTitle" : "一日游"
+    },{
+        "id" : 8,
+        "imgUrl" : "static/mock/img/icon08.png",
+        "itemTitle" : "长隆度假区"
+    }],
+    "likeList" : [{
+        "id" : "01",
+        "imgUrl" : "static/mock/img/likeList01.jpg",
+        "itemTitle" : "长隆野生动物世界",
+        "address" : "广州长隆",
+        "price" : "273",
+        "ellipsis" : "熊猫三胞胎与您共享欢乐时光"
+    },{
+        "id" : "02",
+        "imgUrl" : "static/mock/img/likeList02.jpg",
+        "itemTitle" : "南沙百万葵园",
+        "address" : "南沙区",
+        "price" : "133",
+        "ellipsis" : ""
+    },{
+        "id" : "03",
+        "imgUrl" : "static/mock/img/likeList03.jpg",
+        "itemTitle" : "碧水湾温泉度假村",
+        "address" : "从化区",
+        "price" : "169",
+        "ellipsis" : "低氡珍稀苏打温泉，极富养生特色"
+    },{
+        "id" : "04",
+        "imgUrl" : "static/mock/img/likeList04.jpg",
+        "itemTitle" : "广州长隆旅游度假区",
+        "address" : "番禺区",
+        "price" : "93",
+        "ellipsis" : "《奔跑吧兄弟》取景地"
+    }]
+  }
+}
